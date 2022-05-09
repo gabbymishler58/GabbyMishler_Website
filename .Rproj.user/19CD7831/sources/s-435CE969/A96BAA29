@@ -3,7 +3,7 @@
     "path": "~/Bucknell University/Spring 2022/Data Visualizations and Computing/Final Project/GabbyMishler_Website/NHL Stats.Rmd",
     "project_path": "NHL Stats.Rmd",
     "type": "r_markdown",
-    "hash": "478323403",
+    "hash": "1002534592",
     "contents": "",
     "dirty": false,
     "created": 1651861681215.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "23,0",
-        "scrollLine": "14"
+        "cursorPosition": "66,215",
+        "scrollLine": "46"
     },
     "folds": "",
-    "lastKnownWriteTime": 1652061603,
+    "lastKnownWriteTime": 1652072753,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1652061603231,
+    "last_content_update": 1652072753985,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -64,7 +64,7 @@ ggplot(subset(NHL_Stats_2020_2021, GP >= 28), aes(x = Pos, y = round(as.numeric(
   theme(legend.position = "none") 
 ```
 
-Plus/minus (+/-) is a statistic that gives insight about how defensively responsible a player is. A player's plus/minus increases if they are on the ice when their team scores a goal, and it decreases if they are on the ice when a goal is scored against their team. The median plus/minus for all positions is roughly the same, showing that defensemen can easily match the skill levels of forwards.
+Plus/minus (+/-) is a statistic that gives insight about how defensively responsible a player is. A player's plus/minus increases by one if they are on the ice when their team scores a goal, and it decreases by one if they are on the ice when a goal is scored against their team. The median plus/minus for all positions is roughly the same, showing that defensemen can easily match the skill levels of forwards.
 
 ```{r, echo = FALSE}
 colnames(NHL_Stats_2020_2021)[10] <- "PlusMinus"
