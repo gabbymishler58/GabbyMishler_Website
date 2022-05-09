@@ -177,7 +177,7 @@ Defensive_Stats_Sheet1 %>%
   tab_header(
     title = md("The Ideal Player Based on Position (Defensive Statistics)")) %>%
   tab_source_note(md("More information on player rankings available at NBCSports.com")) %>%
-  cols_label(HITS = "Hits", BS = "Blocked Shots") %>%
+  cols_label(HITS = "Hits", BS = "Blocked Shots", Pos = "Position") %>%
   cols_align(align = "center", columns = c(HITS, BS))
 ```
 
