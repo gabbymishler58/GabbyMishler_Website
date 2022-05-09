@@ -1,0 +1,22 @@
+"0","library(Lock5Data)"
+"0","library(ggside)"
+"2","Loading required package: ggplot2
+"
+"2","Registered S3 method overwritten by 'ggside':
+  method from   
+  +.gg   ggplot2
+"
+"0","library(ggplot2)"
+"0","data(SleepStudy)"
+"0","attach(SleepStudy)"
+"0",""
+"0","ggplot(SleepStudy, aes(PoorSleepQuality, StressScore, color = AlcoholUse)) +"
+"0","  geom_point(size = 2) +"
+"0","  xlab(""Poor Sleep Quality"") +"
+"0","  ylab(""Stress Score"") +"
+"0","  ggtitle(""Poor Sleep Quality vs Stress Score and Alcohol Use - Density & Box Plot"") +"
+"0","  labs(color = ""Alcohol Use"") +"
+"0","  geom_ysidedensity(position = ""stack"") +"
+"0","  theme(axis.text.x = element_text(angle = -90), ggside.panel.scale = .3) +"
+"0","  geom_xsideboxplot(aes(y = AlcoholUse), orientation = ""y"") +"
+"0","  scale_xsidey_discrete() "

@@ -1,0 +1,7 @@
+"2","Warning in gzfile(file, ""wb"") :"
+"2","
+ "
+"2"," cannot open compressed file 'C:/Users/gabby/OneDrive/Documents/Bucknell University/Spring 2022/Data Visualizations and Computing/Final Project/GabbyMishler_Website/.Rproj.user/shared/notebooks/82ECB4DD-Personal Favorites/1/19CD7831C35967F5/cxbnseamdzls1_t/2554d1cda2294f668a8efed97f977877.snapshot', probable reason 'No such file or directory'
+"
+"2","Error in gzfile(file, ""wb"") : cannot open the connection
+"

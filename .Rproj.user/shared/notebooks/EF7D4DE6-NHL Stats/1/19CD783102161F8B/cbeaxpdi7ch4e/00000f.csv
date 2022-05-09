@@ -1,0 +1,12 @@
+"0","attach(NHL_Stats_2020_2021)"
+"2","The following object is masked _by_ .GlobalEnv:
+
+    Pos
+
+"
+"2","The following objects are masked from NHL_Stats_2020_2021 (pos = 4):
+
+    +/-, A, EVG, EVP, FOW%, G, GP, GWG, OTG, P, P/GP, PIM, Player, Pos, PPG, PPP, S, S%, S/C, Season, SHG, SHP,
+    Team, TOI/GP
+
+"

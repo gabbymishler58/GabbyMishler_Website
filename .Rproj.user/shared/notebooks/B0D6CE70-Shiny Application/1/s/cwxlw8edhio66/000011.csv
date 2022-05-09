@@ -1,0 +1,4 @@
+"0","knitr::include_graphics(""shinyapp.png"")"
+"2","Error in knitr::include_graphics(""shinyapp.png"") : 
+  Cannot find the file(s): ""shinyapp.png""
+"

@@ -1,0 +1,12 @@
+"0","NHL_Stats_2020_2021$Pos = factor(NHL_Stats_2020_2021$Pos, levels = c(""C"", ""R"", ""L"", ""D""), labels = c(""Centerman"", ""Right Wing"", ""Left Wing"", ""Defenseman""))"
+"0","library(ggplot2)"
+"0","library(ggside)"
+"0","ggplot(subset(NHL_Stats_2020_2021, GP >= 28), aes(GP, P, color = Pos)) + "
+"0","  geom_jitter(size = 3) +"
+"0","  geom_smooth(method = ""auto"") +"
+"0","  ggtitle(""Can Position Indicate Amount of Points Scored Per Season?"") +"
+"0","  xlab(""Games Played"") +"
+"0","  ylab(""Season Point Totals"") +"
+"0","  scale_colour_discrete(name = ""Position"")"
+"2","`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+"
