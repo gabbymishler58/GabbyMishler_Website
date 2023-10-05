@@ -4,8 +4,6 @@ image: "gabby.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/gabby-mishler-523a39232"
-  - label: Instagram
-    url: "https://www.instagram.com/gabbymishler58/"
 output:
   postcards::jolla
 site: distill::distill_website  
