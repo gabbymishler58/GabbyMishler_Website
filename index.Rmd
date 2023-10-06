@@ -9,4 +9,4 @@ output:
 site: distill::distill_website  
 ---
  
-Welcome! I am a class of 2025 statistics major at Bucknell University with a passion for data analytics. This website highlights some of my favorite visualizations that I had the opportunity to create -- see "Semester Projects" tab -- in a course called MATH 230, formally known as Data Visualizations and Computing. The "Exploring NHL Data" tab features exploratory data analysis for my other passion: hockey!
+Welcome! I am a class of 2025 statistics major at Bucknell University with a passion for data analytics. This website highlights some of my favorite visualizations that I had the opportunity to create -- see "Semester Projects" tab -- in a course called MATH 230, formally known as Data Visualizations and Computing. The "Exploring NHL Data" tab features exploratory data analysis for my other passion: hockey! 
